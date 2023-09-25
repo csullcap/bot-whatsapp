@@ -1,0 +1,9 @@
+node_modules/
+temp/
+
+.wwebjs_auth/
+.wwebjs_cache/
+.wwebjs_config/
+.wwebjs_data/
+.wwebjs_log/
+.wwebjs_modules/
